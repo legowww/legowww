@@ -29,7 +29,7 @@
 
 #### 🚌 [Time to Out](https://github.com/legowww/time-to-out)
 > **대중교통 API를 활용한 외출 시간 결정 서비스** | 팀 프로젝트
-- 사용자 경로 데이터 기반 최적 출발 시간 계산
+- 사용자가 입력한 경로 데이터를 활용하여 외출 시간을 결정
 - 경로 즐겨찾기 및 알람 기능 구현
 - **Tech**: Java, Spring Boot, Spring Data JPA, MySQL
 
