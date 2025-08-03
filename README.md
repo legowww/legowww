@@ -46,7 +46,7 @@
 
 
 
-## 🏆 Solved.ac Profile
+## 🏆 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=legowww)](https://solved.ac/legowww/)
 
 ## 📫 Contact
