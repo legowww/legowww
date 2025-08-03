@@ -11,6 +11,17 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
 
 ## 🚀 Side Projects
+#### 🛒 [Shop](https://github.com/legowww/shop)
+> **캐싱 최적화에 집중한 E-commerce 백엔드 API** | 개인 프로젝트
+
+- Spring의 캐시 라이브러리인 Caffaine Cache를 이용한 검색어 결과 캐싱
+- Redis의 ZSET 자료구조를 사용하여 최저가 상품 관리
+- gzip, ETag 적용
+- Locust 를 사용하여 성능 테스트 수행
+- [📋 프로젝트 상세 포트폴리오 보기](https://steadfast-perch-679.notion.site/shop-5483b3af48684f96ac12f92735625e12)
+  
+**Tech**: Java, Spring Boot, Spring Data JPA, Redis, MySQL
+
 
 #### 🦸 [원데이 히어로](https://github.com/prgrms-web-devcourse/Team-6Heroes-OneDayHero-BE)
 > **일상의 간단한 미션을 해결하는 매칭 플랫폼** | 팀 프로젝트
